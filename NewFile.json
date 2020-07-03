@@ -1,0 +1,222 @@
+[
+	{
+		"title": "fruit1",
+		"tags": "",
+		"body": "어이구 이 동네      새로 오셨나보네~        처음 보는           얼굴이야!\r\n웰컴푸르트로        딸기를 선사하지!\r\n마음에 드는         딸기를 고르고       확인버튼을 누르면   된다네~\r\n<<set $fruit1 to true>> ",
+		"position": {
+			"x": 2644,
+			"y": -899
+		},
+		"colorID": 0
+	},
+	{
+		"title": "fruit2",
+		"tags": "",
+		"body": "아주 좋은 놈으로    고르셨구만\r\n지금 마침 싱싱한    멜론 하나 먹을      참이었는데  맛      한번 보실텐가?<<set $hide_remain to true>> \r\n부위별로 맛이       다르니 취향껏       골라 드시게~\r\n원하는 부위를       골라 보게나~\r\n<<set $fruit2 to true>> ",
+		"position": {
+			"x": 2652,
+			"y": -670
+		},
+		"colorID": 0
+	},
+	{
+		"title": "cloth1",
+		"tags": "",
+		"body": "어! 못 보던         사람이네! 반가워.   마침 잘 됐다.           나 좀 도와줄래?\r\n내가 오늘           데이트가 있는데     무슨 옷을 입을 지       너무 고민이야.\r\n만약 너라면         데이트에 어떤 옷을  입을 것 같아?\r\n마음에 드는         원단을 손으로       꾹~~~ 눌러서 옷     위로 올려줘! 옷이 마음에 들면 확인 버튼을 눌러줘!\r\n<<set $cloth1 to true>> ",
+		"position": {
+			"x": 2922,
+			"y": -915
+		},
+		"colorID": 6
+	},
+	{
+		"title": "cloth2",
+		"tags": "",
+		"body": "정말 고마워! 혹시 괜찮으면 어디 갈지 장소 추천해줄 수 있을까?\n난 처음이라         서투르네 ㅜㅜ       데이트 장소로       어디가 좋을까?\n4군데 중에서        골라줘!\n<<set $cloth2 to true>> ",
+		"position": {
+			"x": 2933,
+			"y": -675
+		},
+		"colorID": 6
+	},
+	{
+		"title": "movie1",
+		"tags": "",
+		"body": "안녕하세요!         면발시네마입니다.\n오늘의 영화는       <냠냠쩝쩝>입니다.\n지금 4자리가        남았네요! 어디에        앉으시겠어요?\n선택한 자리가       마음에 들면         확인버튼을      눌러주세요!\n<<set $movie1 to true>> ",
+		"position": {
+			"x": 3202,
+			"y": -906
+		},
+		"colorID": 0
+	},
+	{
+		"title": "movie2",
+		"tags": "",
+		"body": "입이 심심하지는     않으신가요?\r\n간식은 무엇을       드시겠어요?\r\n<<set $movie2 to true>> ",
+		"position": {
+			"x": 3205,
+			"y": -676
+		},
+		"colorID": 6
+	},
+	{
+		"title": "bank1",
+		"tags": "",
+		"body": "안녕하세요!         고객님!\n지금 대기하는       분들이 많아서 번호표 뽑고 잠시 기다려주세요!\n차례가 되면         불러드릴게요!\n<<set $bank1 to true>> ",
+		"position": {
+			"x": 3461,
+			"y": -907
+		},
+		"colorID": 0
+	},
+	{
+		"title": "bank2",
+		"tags": "",
+		"body": "오래 기다리셨죠!\n은행에는 무슨       일로 오셨나요?\n저에게               알려주세요!\n<<set $bank2 to true>> ",
+		"position": {
+			"x": 3471,
+			"y": -678
+		},
+		"colorID": 0
+	},
+	{
+		"title": "park1",
+		"tags": "",
+		"body": "안녕! 반가워~       공원에 꽃도 많이    피었네?\n내가 꽃을 그리고    있는데 어떤색을     칠해야 할지         고민이야!\n색칠하는 것좀       도와줄래?\n5가지 색을          조합해서 너만의     색을 만들어봐!      마음에 드는 꽃이        만들어지면          확인버튼을 눌러!\n<<set $park1 to true>>",
+		"position": {
+			"x": 3719,
+			"y": -901
+		},
+		"colorID": 0
+	},
+	{
+		"title": "park2",
+		"tags": "",
+		"body": "와우~ 정말 근사한   꽃인데!!\n엥? 근데 이게       무슨 소리지?\n<<set $avatar1 to true>>\n이봐 형씨.. 공원을 지나가려면           통행료를 내셔야지\n<<set $avatar2 to true>>\n아,... 그게 무슨    말씀이세요...\n<<set $avatar3 to true>> \n공원은 공공장소 잖아요.\n갑자기 저희한테 왜그러세요...\n울 아빠한테         왜그래~ 무서워      ㅠㅠ\n<<set $avatar4 to true>>\n뭐어얏?             (펏펏)\n<<set $avatar5 to true>> \n자식교육을         어떻게               시킨거야??\n으갸갸갸갹!\n<<set $avatar6 to true>>\n어떻게 하는게       좋을까?\n<<set $avatar1 to true>>\n<<set $park2 to true>> ",
+		"position": {
+			"x": 3709,
+			"y": -666
+		},
+		"colorID": 0
+	},
+	{
+		"title": "visted",
+		"tags": "",
+		"body": "어?! 또 온거야? 다른 곳을 가보는 건 어때?\n<<set $visited to true>> ",
+		"position": {
+			"x": 2946,
+			"y": -223
+		},
+		"colorID": 0
+	},
+	{
+		"title": "goodbye",
+		"tags": "",
+		"body": "잘가~~~\n<<set $goodbye to true>>",
+		"position": {
+			"x": 3202,
+			"y": -225
+		},
+		"colorID": 0
+	},
+	{
+		"title": "fruit3",
+		"tags": "",
+		"body": "자네 과일을 보는    눈이 있구먼~\n맛있게 먹고~        잘가게나~\n<<set $goodbye to true>>",
+		"position": {
+			"x": 2653,
+			"y": -448
+		},
+		"colorID": 0
+	},
+	{
+		"title": "movie3",
+		"tags": "",
+		"body": "역시 영화를 볼줄 아시는군요!\n즐거운 관람             되세요!\n<<set $goodbye to true>>",
+		"position": {
+			"x": 3206,
+			"y": -447
+		},
+		"colorID": 0
+	},
+	{
+		"title": "cloth3",
+		"tags": "",
+		"body": "고마워~!\n데이트 성공하면 한턱 쏠게~!\n잘가~!\n<<set $goodbye to true>>",
+		"position": {
+			"x": 2934,
+			"y": -447
+		},
+		"colorID": 6
+	},
+	{
+		"title": "park3",
+		"tags": "",
+		"body": "<<if $park2a == 1>>\n용감한데? 나머지는  나한테 맡기고 너는 어서 가봐!\n<<endif>> \n<<if $park2a == 2>>\n경찰이 올 때 까지   내가 지키고 있을게 너는 어서 가봐!\n<<endif>> \n<<if $park2a == 3>>\n뭐라구?! 빤쓰런??   그래! 빨리 가버려!\n<<endif>>\n<<if $park2a == 4>>\n자상한데? 나머지는  나한테 맡기고 너는 어서 가봐!\n<<endif>> \n<<set $goodbye to true>>",
+		"position": {
+			"x": 3719,
+			"y": -444
+		},
+		"colorID": 5
+	},
+	{
+		"title": "bank3",
+		"tags": "",
+		"body": "처리가              완료되었습니다!      고객님!\n오늘도 좋은         하루 되세요!\n<<set $goodbye to true>>",
+		"position": {
+			"x": 3470,
+			"y": -444
+		},
+		"colorID": 1
+	},
+	{
+		"title": "showing_result",
+		"tags": "",
+		"body": "(꼬르르르륵)\n이게 무슨 소리지?!\n(꼬르르르륵)\n이런.. 내 위장이 내는 소리였군..!\n　 <<set $go_to_next_scene to true>> ",
+		"position": {
+			"x": 3693,
+			"y": -215
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Node19",
+		"tags": "",
+		"body": "Empty Text",
+		"position": {
+			"x": 5651,
+			"y": -719
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Node20",
+		"tags": "",
+		"body": "Empty Text",
+		"position": {
+			"x": 6123,
+			"y": -761
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Node21",
+		"tags": "",
+		"body": "Empty Text",
+		"position": {
+			"x": 6123,
+			"y": -761
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Node22",
+		"tags": "",
+		"body": "Empty Text",
+		"position": {
+			"x": 6123,
+			"y": -761
+		},
+		"colorID": 0
+	}
+]

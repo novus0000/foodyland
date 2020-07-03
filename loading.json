@@ -1,0 +1,22 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "어서오십쇼. 당신을 계속 기다리고 있었답니다.\n배가 너무 많이 고픈데 여기          추천메뉴가 있나요?<<set $dialouge to 1>> \n암요암요~ 당신과 딱 맞는 메뉴를 준비해뒀답니다!<<set $dialouge to 2>> \n[[Node2]]",
+		"position": {
+			"x": 411,
+			"y": 196
+		},
+		"colorID": 5
+	},
+	{
+		"title": "Node2",
+		"tags": "",
+		"body": "<<set $loading to 1>> ",
+		"position": {
+			"x": 648,
+			"y": 196
+		},
+		"colorID": 0
+	}
+]
